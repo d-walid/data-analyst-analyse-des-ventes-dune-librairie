@@ -4,7 +4,7 @@
   - Vérifications et nettoyage des trois fichiers .csv (customers, products, transactions)
   - Nettoyage complémentaire
   - Jointure des différentes informations
-  - Ajouts d'informatiuons (dates scindées, discrétisation de l'âge)
+  - Ajouts d'informations (dates scindées, discrétisation de l'âge)
   - Visualisation des données
   
   
