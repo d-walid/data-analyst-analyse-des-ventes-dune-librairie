@@ -1,4 +1,4 @@
-# Analysez les ventes d'une lirairie
+# Analysez les ventes d'une librairie
 
 ## Première partie - nettoyage et préparation des données
   - Vérifications et nettoyage des trois fichiers .csv (customers, products, transactions)
